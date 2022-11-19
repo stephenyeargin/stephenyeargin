@@ -2,4 +2,4 @@
 
 I am a software developer building web applications in Ruby, PHP, and Javascript. I have also worked as an engineering manager, systems administrator, project manager, graphic designer, marketer, and journalist.
 
-I'm most active on <a rel="me" href="https://social.yearg.in/@stephenyeargin">Mastodon</a>.
+I'm most active on <a rel="nofollow me" href="https://social.yearg.in/@stephenyeargin">Mastodon</a>.
